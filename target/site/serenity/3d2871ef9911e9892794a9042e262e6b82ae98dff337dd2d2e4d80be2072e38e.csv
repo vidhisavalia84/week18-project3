@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CRUD test","Test001","SUCCESS","2023-01-03T20:37:25.791Z[Europe/London]","0.0","9.47"
+"Booking CRUD test","Test002","SUCCESS","2023-01-03T20:37:35.304Z[Europe/London]","0.0","0.79"
+"Booking CRUD test","Test003","FAILURE","2023-01-03T20:37:36.097Z[Europe/London]","0.0","0.71"
+"Booking CRUD test","Test004","SUCCESS","2023-01-03T20:37:36.829Z[Europe/London]","0.0","0.58"
+"Booking CRUD test","Test005","SUCCESS","2023-01-03T20:37:37.411Z[Europe/London]","0.0","1.18"

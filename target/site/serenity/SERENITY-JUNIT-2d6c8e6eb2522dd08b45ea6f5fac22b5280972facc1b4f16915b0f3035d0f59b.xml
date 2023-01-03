@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.restful.booker.restfulinfo.BookingCRUDTest" skipped="0" tests="5" time="12.74" timestamp="2023-01-03T20:37:25.791Z[Europe/London]"><testcase classname="com.restful.booker.restfulinfo.BookingCRUDTest" name="Test001"/><testcase classname="com.restful.booker.restfulinfo.BookingCRUDTest" name="Test002"/><testcase classname="com.restful.booker.restfulinfo.BookingCRUDTest" name="Test003"><failure message="&#10;Expected: iterable containing [&lt;3296&gt;]&#10;     but: was null" type="java.lang.AssertionError">
+Expected: iterable containing [&lt;3296&gt;]
+     but: was null</failure><system-err>
+Expected: iterable containing [&lt;3296&gt;]
+     but: was null&#13;
+com.restful.booker.restfulinfo.BookingCRUDTest.test003(BookingCRUDTest.java:67)&#13;
+</system-err></testcase><testcase classname="com.restful.booker.restfulinfo.BookingCRUDTest" name="Test004"/><testcase classname="com.restful.booker.restfulinfo.BookingCRUDTest" name="Test005"/></testsuite>

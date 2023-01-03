@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.restful.booker.restfulinfo.BookingCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.461 sec <<< FAILURE! - in com.restful.booker.restfulinfo.BookingCRUDTest
+test003(com.restful.booker.restfulinfo.BookingCRUDTest)  Time elapsed: 0.695 sec  <<< FAILURE!
+java.lang.AssertionError: 
+Expected: iterable containing [<3296>]
+     but: was null
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+	at org.junit.Assert.assertThat(Assert.java:956)
+	at org.junit.Assert.assertThat(Assert.java:923)
+	at com.restful.booker.restfulinfo.BookingCRUDTest.test003(BookingCRUDTest.java:67)
+
